@@ -576,9 +576,6 @@ fprintf(fic,"%s %s %d %d %d %d %d %d %d %d %s\n",A[i].medn,A[i].medbr,A[i].qunt,
 }
 free(A);
 
-printf("projet fait par : Mohamed Amine Cherfaoui\n");
-printf("Section A\n");
-printf("Grp 4\n");
 
 return 0;
 }
